@@ -27,7 +27,7 @@
 | Criteria       | Indicator                                                                             | Yes/No |
 |----------------|---------------------------------------------------------------------------------------|--------|
 | 1. Is complete | I realized all notebooks.                                      |        |
-|                | There is a published on GitHub.                                           |        |
+|                | There is a published repository on GitHub.                                           |        |
 | 2. Is Correct  | I have used and I know how to define a cost function.                                          |        |
 |                | I have used and I know how to define a descending gradient.. |        |
 |                | I used the appropriate linear model (Simple, multiple, polynomial)    |      |
